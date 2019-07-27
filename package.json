@@ -1,5 +1,5 @@
 {
-  "name": "react-smooth-dnd",
+  "name": "@richardrout/react-smooth-dnd",
   "version": "0.11.0",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
@@ -48,7 +48,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "smooth-dnd": "git://github.com/richrout/smooth-dnd.git#ec18e06d82fc65ee26c581e8497681a9f3d00732",
+    "@richardrout/smooth-dnd": "0.12.0",
     "prop-types":">=15.6.0"
   }
 }
