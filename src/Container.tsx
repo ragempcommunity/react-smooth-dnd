@@ -22,6 +22,7 @@ class Container extends Component<ContainerProps> {
 		dragBeginDelay: PropTypes.number,
 		animationDuration: PropTypes.number,
 		autoScrollEnabled: PropTypes.bool,
+		disableScrollOverlapDetection: PropTypes.bool,
 		lockAxis: PropTypes.string,
 		dragClass: PropTypes.string,
 		dropClass: PropTypes.string,
