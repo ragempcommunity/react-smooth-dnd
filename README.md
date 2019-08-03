@@ -20,7 +20,7 @@ npm i react-smooth-dnd
 
 ```jsx
 import React, { Component } from 'react';
-import { Container, Draggable } from 'react-smooth-dnd';
+import { Container, Draggable } from '@richardrout/react-smooth-dnd';
 
 class SimpleSortableList extends Component {
   render() {
