@@ -1,6 +1,6 @@
 import React, { Component, CSSProperties } from 'react';
 import PropTypes from 'prop-types';
-import { smoothDnD as container, ContainerOptions, SmoothDnD, dropHandlers } from '@richardrout/smooth-dnd';
+import { smoothDnD as container, ContainerOptions, SmoothDnD, dropHandlers } from '@test137e29b/smooth-dnd';
 
 container.dropHandler = dropHandlers.reactDropHandler().handler;
 container.wrapChild = false;

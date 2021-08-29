@@ -1,9 +1,6 @@
-import Container from './src/Container';
-import Draggable from './src/Draggable';
+import Container from "./src/Container";
+import Draggable from "./src/Draggable";
 
-export * from '@richardrout/smooth-dnd';
+export * from "@test137e29b/smooth-dnd";
 
-export {
-  Container,
-  Draggable
-}
+export { Container, Draggable };
