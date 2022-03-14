@@ -4,6 +4,9 @@ A fast and lightweight drag&drop, sortable library for React with many configura
 
 This library consists wrapper React components over <a href="https://github.com/kutlugsahin/smooth-dnd/">smooth-dnd</a> library.
 
+### Fork Details
+This fork uses a forked version of <a href="https://github.com/ragempcommunity/smooth-dnd">smooth-dnd</a>, which contains some fixes.
+
 **Show, don't tell !**
 ### <a href="https://kutlugsahin.github.io/smooth-dnd-demo/">Demo page</a>
 
