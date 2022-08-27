@@ -1,6 +1,6 @@
 {
   "name": "@test137e29b/react-smooth-dnd",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
   "scripts": {
@@ -45,7 +45,7 @@
     "typescript": "3.3.3333"
   },
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": "^18.2.0"
   },
   "dependencies": {
     "@test137e29b/smooth-dnd": "^0.12.11",
