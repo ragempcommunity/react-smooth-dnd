@@ -8,6 +8,7 @@ const {
 export interface DraggableProps {
 	render?: () => React.ReactElement;
 	className?: string;
+  children?: React.ReactNode;
 }
 
 class Draggable extends Component<DraggableProps> {
